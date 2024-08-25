@@ -1,0 +1,110 @@
+body {
+    background-color: white;
+}
+span{
+margin-left:300px;
+}
+.right{
+    margin-top: 10px;
+}
+fieldset{
+    border:4px solid aqua;
+    margin-top: 10px;
+}
+legend{
+    font-weight:bolder;
+    font-size: large;
+}
+.con .right label{
+    font-size:17px;
+    
+}
+span input{
+    border:1px solid black;
+}
+.con .right input{
+    border:1px solid black;
+    padding:3px;
+    width: 20%;
+    font-weight: lighter;
+}
+.fie{
+    margin-top: 15px;
+    border:3px solid aqua;
+}
+.field{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.field input{
+    border:1px solid black;
+    padding:3px;
+    width: 50%;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+.field2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.field2 .input label{
+    margin-top: 10px;;
+}
+.field2 input{
+    border:1px solid black;
+    padding:3px;
+    width: 70%;
+    font-weight: lighter;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.mm{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+}
+.last{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.last div{
+    margin-left: 10px;
+}
+.last div input{
+    padding:5px;
+}
+.ma div{
+margin-top: 5px;
+}
+.ma label{
+    font-size: 17px;
+}
+.ma{
+    margin-top: 8px;
+}
+.ma input{
+    border:1px solid black;
+    font-weight: lighter;
+}
+.head {
+    width: 30%;
+    margin: 50px auto 0px;
+    color: lightblue;
+    text-align: center;
+    padding: 20px;
+  }
+.error{
+    color:#FF0001;
+}
+
+.box {
+    margin-bottom: 10px;
+}
